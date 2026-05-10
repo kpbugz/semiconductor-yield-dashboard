@@ -56,7 +56,7 @@ The ETL pipeline standardizes and transforms these semi-structured files into an
 - 4-week yield monitoring
 - First Pass Yield (FPY)
 - Final Test Yield (FTY)
-- Low Running Rate (LRR)
+- Lot Rejection Rate (LRR)
 - Retest Pass Rate (RPR)
 - Top defect pareto analysis
 - Handler correlation analysis
