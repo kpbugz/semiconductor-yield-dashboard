@@ -62,10 +62,13 @@ The ETL pipeline standardizes and transforms these semi-structured files into an
 - Handler correlation analysis
 - Handler-site root cause analysis
 
-## Trend Analytics
-- YoY trend monitoring
-- QoQ trend monitoring
-- MoM trend monitoring
+## Long-Term Manufacturing Trend Analytics
+Includes:
+- Year-over-Year (YoY) yield monitoring
+- Quarter-over-Quarter (QoQ) trend analysis
+- Month-over-Month (MoM) production analytics
+- long-horizon defect trend visibility
+- manufacturing performance comparison across periods
 
 ---
 
