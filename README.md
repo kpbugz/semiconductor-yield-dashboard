@@ -279,6 +279,7 @@ DuckDB was selected as the primary analytics database because it provides:
 - easy portability within restricted enterprise environments
 
 The project environment had limitations on deploying and managing heavier database platforms such as SQL Server or PostgreSQL, so DuckDB provided a highly effective local analytics solution for manufacturing KPI workloads.
+
 ---
 
 ## Why Streamlit
