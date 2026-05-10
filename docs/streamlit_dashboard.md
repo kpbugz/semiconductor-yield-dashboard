@@ -96,8 +96,6 @@ Dashboard sections can be exported into standalone HTML reports for:
 - Automated report generation
 - Modular Streamlit architecture
 
----
-
 ## Statistical Monitoring Logic
 
 The dashboard also incorporates basic statistical monitoring concepts for manufacturing analytics workflows, including:
