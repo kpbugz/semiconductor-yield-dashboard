@@ -98,6 +98,20 @@ Dashboard sections can be exported into standalone HTML reports for:
 
 ---
 
+## Statistical Monitoring Logic
+
+The dashboard also incorporates basic statistical monitoring concepts for manufacturing analytics workflows, including:
+
+- Interquartile Range (IQR)-based outlier detection
+- historical yield target calculations
+- rolling KPI trend analysis
+- 3-sigma style yield monitoring concepts
+- defect contribution ranking
+
+These calculations were used to support yield monitoring, retest analysis, and abnormal production trend identification.
+
+---
+
 # Notes
 
 - Configuration paths are externally controlled through `.ini` and batch launcher files.
